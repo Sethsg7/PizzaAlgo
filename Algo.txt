@@ -1,3 +1,6 @@
 1. Get dough.
 2. Bake dough.
 3. Eat pizza.
+4. Realize pizza is raw.
+5. Heat pizza in microwave.
+6. Attempt to eat pizza.
